@@ -6,4 +6,4 @@ DIAGRAMA DE COMPONENTES
 
 DIAGRAMA DE SECUENCIA
 
-
+![XYZ_Bank_System-Secuence Diagram-Ms-Accounts](https://github.com/user-attachments/assets/93ac0913-7c8a-47b1-a44e-b8fa29528653)
