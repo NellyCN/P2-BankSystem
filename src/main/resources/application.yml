@@ -1,0 +1,16 @@
+server:
+  port: 8081  # Puerto específico para ms-accounts
+
+spring:
+  application:
+    name: ms-accounts  # Nombre del microservicio
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs/accounts  # Ruta de documentación OpenAPI para ms-accounts
+  swagger-ui:
+    path: /swagger-ui/accounts  # Ruta Swagger UI para la documentación
+
+logging:
+  level:
+    org.springframework: INFO

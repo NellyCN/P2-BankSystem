@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  title: Microservicio de Gestión de Cuentas
+  version: 1.0.0
+  description: API para la gestión de cuentas bancarias en el sistema bancario.
+
+paths:
+  /accounts:
+    get:
+       summary: Listar todas las cuentas bancarias
+       responses:
+         '200':
+           description: Lista de cuentas
