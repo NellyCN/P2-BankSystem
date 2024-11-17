@@ -50,10 +50,10 @@
 Ejecutar proyecto en el IDE y postman.
 Ejecutar consultas en MySql
 
-## 4. Prints de la creación de la Base de Datos.
-![create_table_account.png](Sentencias%20SQL%2Fcreate_table_account.png)
-![Create_table_customer.png](Sentencias%20SQL%2FCreate_table_customer.png)
-![describe_account.png](Sentencias%20SQL%2Fdescribe_account.png)
-![describe_customer.png](Sentencias%20SQL%2Fdescribe_customer.png)
-![insert_data_account.png](Sentencias%20SQL%2Finsert_data_account.png)
-![insert_data_customer.png](Sentencias%20SQL%2Finsert_data_customer.png)
+## 4. SQL Database Queries.
+![insert_data_customer](https://github.com/user-attachments/assets/4f1fa3e9-72d5-43d8-a611-5367671e2504)
+![insert_data_account](https://github.com/user-attachments/assets/c1020bee-108b-4f25-a2d5-cbb13163cfa1)
+![describe_customer](https://github.com/user-attachments/assets/c02ecddd-7240-4a16-9061-52662e629ad5)
+![describe_account](https://github.com/user-attachments/assets/711ce8cc-ed2e-4bf4-8928-2392df9b6e1a)
+![Create_table_customer](https://github.com/user-attachments/assets/137dc627-e2e7-4e2f-817e-35012d6abb95)
+![create_table_account](https://github.com/user-attachments/assets/21742a76-41b3-4c63-b8ec-961a83b5f717)
